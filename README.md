@@ -3,6 +3,8 @@
 I'm a Computer Science Engineering student passionate about technology, programming, and software development.
 
 ## 💻 Skills & Tools
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
